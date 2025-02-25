@@ -1,0 +1,1 @@
+ParentPhenotype line ParentGenotype MutantPhenotype MutantGenotype KC_col1 KC_col4 Conditional_Complexity
