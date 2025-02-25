@@ -1,1 +1,5 @@
+The code contains all the necessary steps to replicate the results for the polyominos in https://doi.org/10.1101/2024.12.18.629197
 
+To use it, run each pyhton scripts in the order, each will produce the necessary information for the next step.
+
+The data used in the article, can be found in the data folder, with the appropiate R scripts use for the analysis. 
