@@ -1,1 +1,7 @@
+R code to plot and analyse the data from the circadian cycle. 
 
+global.R - Creates frequency vs. complexity plots using individuals from random global explorations
+
+probAconditionalCom.R - Generates complexity transition plots and performs statistical analysis
+
+propFound.R - Calculates and visualizes the percentage of phenotypes found in the 1-mutation neighborhood relative to all phenotypes found in global exploration
